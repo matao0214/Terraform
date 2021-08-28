@@ -1,0 +1,9 @@
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# terraformer import fils
+*/generated/
